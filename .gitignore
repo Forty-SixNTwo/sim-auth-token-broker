@@ -1,0 +1,32 @@
+# Binaries for programs and plugins
+/bin/
+/broker
+/cellcom
+/partner
+/pelephone
+
+# Build directories
+/bin/
+
+# Go workspace files
+*.coverprofile
+coverage.out
+*.mod
+*.sum
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
