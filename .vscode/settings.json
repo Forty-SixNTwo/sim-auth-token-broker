@@ -1,0 +1,12 @@
+{
+  "go.toolsEnvVars": {
+    "GO111MODULE": "on"
+  },
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "gobreaker",
+    "godotenv",
+    "joho",
+    "MCCMNC"
+  ]
+}

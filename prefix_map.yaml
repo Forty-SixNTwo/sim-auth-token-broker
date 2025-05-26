@@ -1,0 +1,13 @@
+prefixes:
+  97254:
+    base_url: http://localhost:8081
+    client_id: PARTNER_CLIENT_ID
+    client_secret: PARTNER_CLIENT_SECRET
+  97252:
+    base_url: http://localhost:8082
+    client_id: CELLCOM_CLIENT_ID
+    client_secret: CELLCOM_CLIENT_SECRET
+  97250:
+    base_url: http://localhost:8083
+    client_id: PELEPHONE_CLIENT_ID
+    client_secret: PELEPHONE_CLIENT_SECRET
